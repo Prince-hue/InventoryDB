@@ -1,0 +1,80 @@
+﻿id,DESCRIPTION,STARTING QUANTITY,CABIN NUMBER,CLASSIFICATION
+1,"Cup Brush 4""",36,35,Brush
+2,"Cup Brush 3""",8,35,Brush
+3,"Paint Brush 2""",297,47,Brush
+4,"Paint Brush 3""",11,47,Brush
+5,"Paint Brush 4""",127,47,Brush
+6,"Paint Brush 6""",107,47,Brush
+7,"Angle Brush 2""",99,46,Brush
+8,"Angle Brush 3""",118,47,Brush
+9,"Angle Brush 4""",47,47,Brush
+10,"Rolling Brush 2""",0,47,Brush
+11,"Rolling Brush 4""",541,48,Brush
+12,"Rolling Brush 9""",41,48,Brush
+13,Wire brush (Plastic type),123,48,Brush
+14,"Non spark cap wire brush 3""",42,35,Brush
+15,Abrasive fibre disc,16,35,Brush
+16,Non Spark Wire Brush,51,12,Brush
+17,Chipping Hammer,32,9,Hammer
+18,Esab Electrode 7018 (2.5) x 350 mm - packets,12,32,Electrode
+19,Esab Electrode 7018 (2.5) x 450 mm - packets,14,39,Electrode
+20,Pittsburg Paint,3,"Shelve 5, Cabin 2",Paint
+21,PPG Thinner,0,"Shelve 5, Cabin 2",Paint
+22,"Gasket 16"" - 150# 316 B16 - 20 Klinger - SBM - Spiral wound",34,Gasket Box 2,Gasket & Seals
+23,"Gasket 16"" - 150# Fibre NAF Gasket - SBM ",24,Gasket Box 2,Gasket & Seals
+24,"Gasket 16"" - 300# Type - Ring Stainless Steel - SBM - Spiral wound",9,Gasket Box 2,Gasket & Seals
+25,"Gasket 20"" - 150# Klinger 316 L - SBM Spiral wound",10,Gasket Box 2,Gasket & Seals
+26,"Gasket 20"" - 300# LBS B16 20 P005003 - SBM Spiral wound",7,Gasket Box 2,Gasket & Seals
+27,5500D x 450ID x 3mm Thick Gasket 60 Shore,34,Gasket Box 2,Gasket & Seals
+28,6500D x 550ID x 3mm Thick Gasket 60 Shore,13,Gasket Box 2,Gasket & Seals
+29,1200D x 95ID x 4mm Thick Gasket 60 Shore,4,Gasket Box 2,Gasket & Seals
+30,"18"" Gasket 150# Spiral wound",10,Box 5,Gasket & Seals
+31,"Ring Gasket (RTJ) - 16""",12,Box 2,Gasket & Seals
+32,"Ring Gasket (RTJ) - 12""",12,Box 9,Gasket & Seals
+33,"2"" 150# Spiral wound Gasket",5,Box 2,Gasket & Seals
+34,333 75 Seal (Pig Switch),5,3,Gasket & Seals
+35,322 75 Seal (Pig Switch),4,3,Gasket & Seals
+36,60mm Seal (Pig Switch),19,Box 2,Gasket & Seals
+37,70mm Seal (Pig Switch),21,46,Gasket & Seals
+38,"12"" O - Ring",44,46,Gasket & Seals
+39,"Ball valve 4"" 300Ib 1set gasket",1,workshop,Gasket
+40,"Ball valve 6"" 300Ib 1set gasket",1,workshop,Gasket
+41,"Gate valve 8"" 150Ib 1set gasket",1,workshop,Gasket
+42,"Gate valve 8"" 300Ib 1set gasket",2,workshop,Gasket
+43,"Gate valve 12"" 150Ib 1set gasket ",1,workshop,Gasket
+44,"Gate valve 12"" 300Ib 1set gasket",1,workshop,Gasket
+45,"Gate valve 18"" 300Ib 1set gasket",2,workshop,Gasket
+46,Irabounc UU55/52A,1,workshop,Other
+47,Molykote,4,workshop,Other
+48,Belzona Cleaner Degreaser,1,workshop,Other
+49,Belzona 1212 Base,7,workshop,Other
+50,Belzona Soldifier,7,workshop,Other
+51,Belzona 8411,4,workshop,Other
+52,Belzona 1161 Base,4,workshop,Other
+53,Rap Tape,44,workshop,Tape
+54,C.F Tape,26,workshop,Tape
+55,EPDM,3,workshop,Tape
+56,Dove saw and other saw,2,workshop,Saw
+57,Green Heart Wood,16,workshop,Other
+58,QRH keeper,10,workshop,Other
+59,Cable shoes,3,workshop,Other
+60,Cable connector ,5,workshop,Other
+61,M12 bolts with washers,0,workshop,Other
+62,Chain Block 5 ton - Able,1,22,Hoist
+63,Chain Block 3 ton Atlas,1,22,Hoist
+64,Yalelift 360 manual chanin Hoist 3000 kg,2,workshop,Hoist
+65,Yalelift 360 manual chanin Hoist 2000 kg,2,workshop,Hoist
+66,Yalelift 360 manual chanin Hoist 1000 kg,2,workshop,Hoist
+67,Lightweight oil industry snatch block shackle head 2 tonnes / 7 - 9 mm,6,workshop,Shackle
+68,Bravo Lever Hoist 3 ton,6,"shelve 5, Cabin 3",Hoist
+69,Bravo Lever Hoist 1.5 ton,0,"shelve 5, Cabin 3",Hoist
+70,"12T G2130OC Bolt Type Anchor Shackle 1 - 1/4"" Maxtough ",4,8,Shackle
+71,"17T G2130OC 17T OC Bolt Type Anchor Shackle 1 - 1/2"" Maxtough",0,7,Shackle
+72,"35T G2130OC 35t OC Bolt Type Anchor Shackle 2"" Maxtough",6,7,Shackle
+73,"8.5T G2130OC 8.5T OC Bolt Type Anchor Shackle 1"" Maxtough",0,9,Shackle
+74,9.5T G2130OC 8.5T OC BOLT TYPE ANCHOR,1,6,Shackle
+75,"SHACKLE 1- 1/8"" MAXTOUGH and Van Beest (2)",29,5,Shackle
+76,"6.5T G2130OC OC Bolt Type Anchor Shackle 7/8""",23,8,Shackle
+77,Maxtough and Van Beest (2),26,6,Shackle
+78,12t Van beest Screw pin,10,0,Shackle
+79,"3.25T G-4163, Green Pin Bow Shackle BN, Standard bow shackle with safety bolt to EN13889, Hot ",6,6,Shackle

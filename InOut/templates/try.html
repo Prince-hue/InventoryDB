@@ -1,0 +1,28 @@
+{% extends 'index.html' %}
+{% block title %}Inventory Forms{% endblock %}
+{% block content %}
+{% load static %}
+
+<div class="container" style="color: white; text-align: center; margin: 8vh auto;">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card shadow">
+                <div class="card-body">
+                    <form method="POST">
+                        {% csrf_token %}
+                        {{ form }}
+                        <input class="btn btn-info" type="submit" value="Save">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <p>This is a paragraph</p>
+            {% for x in inout %}
+            {{x.name}} <br>
+            {% endfor %} 
+        </div>
+    </div>
+</div>
+
+{% endblock %}
